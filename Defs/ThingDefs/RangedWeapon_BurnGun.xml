@@ -28,7 +28,7 @@
     </statBases>
     <costList>
       <Gun_AssaultRifle>1</Gun_AssaultRifle>
-      <Shell_HighExplosive>1</Shell_HighExplosive>
+      <Shell_Incendiary>1</Shell_Incendiary>
     </costList>
     <verbs>
       <li>
