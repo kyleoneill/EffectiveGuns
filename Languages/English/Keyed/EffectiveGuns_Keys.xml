@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <EffectBulletFailure>Special effect gun using damage type {0} failed.</EffectBulletFailure>
+  <EMPBulletSuccess>{0} shot {1} with an EMP anti-mech round.</EMPBulletSuccess>
+  <EffectBulletSuccess>{0} shot {1} with a(n) {2} round.</EffectBulletSuccess>
+</LanguageData>
